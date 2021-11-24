@@ -50,8 +50,8 @@
 </template>
 
 <script>
-import '@/common.less';
 import SrejsImg from '@/images/Umajs-vue-ssr.png';
+import '@/common.less';
 
 export default {
     name: 'app',

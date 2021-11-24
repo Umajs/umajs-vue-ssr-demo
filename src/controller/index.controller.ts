@@ -59,7 +59,7 @@ export default class Index extends BaseController {
     andv() {
         return Result.vue('andv', { title: 'umajs-vue-ssr',
             keywords: 'umajs vue ssr',
-            description: 'umajs-vue-ssr是基于umajs+vue同构的解决方案，适用于SPA和MPA应用程序的开发，支持SSR和CSR模式动态切换！'
+            description: 'umajs-vue-ssr是基于umajs+vue同构的解决方案，适用于SPA和MPA应用程序的开发，支持SSR和CSR模式动态切换！',
         });
     }
 
